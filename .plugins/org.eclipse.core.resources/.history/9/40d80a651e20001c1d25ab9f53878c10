@@ -1,0 +1,12 @@
+package org.git.sample;
+
+public class One {
+private void gitSample() {
+System.out.println("Git is easy");
+}
+public static void main(String[] args) {
+	One o=new One();
+	o.getClass();
+	
+}
+}
